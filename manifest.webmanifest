@@ -1,0 +1,10 @@
+{
+  "name": "Ritual — Daily habits",
+  "short_name": "Ritual",
+  "description": "A calm daily habit companion with a focus timer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#f7f7f2",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
